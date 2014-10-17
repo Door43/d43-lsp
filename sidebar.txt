@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lsp:home|Door43 (lsp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lsp|d43-lsp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lsp/archive/master.zip|d43-lsp.zip]]
+
+**Recent Changes**
+{{changes>ns = lsp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lsp|Ethnologue data]]
+
